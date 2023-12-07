@@ -1,8 +1,21 @@
+<<<<<<< HEAD
+=======
+# [submodule "src/Components/Card/card"]
+# 	path = src/Components/Card/card
+# 	url = https://github.com/hetu02/npm_package.git
+
+>>>>>>> bec02432b993225a9e254bcd0c10a1f880a751d4
 # [submodule "/home/hetvirajkotiya/Documents/npm_package_demo/package_demo_app/src/Components/Card/card"]
 # 	path = /home/hetvirajkotiya/Documents/npm_package_demo/package_demo_app/src/Components/Card/card
 # 	url = https://github.com/hetu02/npm_package.git
 
+<<<<<<< HEAD
 
 [submodule "package_demo_app/src/npm_package"]
     path = package_demo_app/src/npm_package
     url = https://github.com/your-username/your-submodule-repo.git
+=======
+[submodule "package_demo_app/src/Components/Card"]
+    path = package_demo_app/src/Components/Card
+    url = https://github.com/hetu02/npm_package.git
+>>>>>>> bec02432b993225a9e254bcd0c10a1f880a751d4
