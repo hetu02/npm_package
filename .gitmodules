@@ -6,6 +6,6 @@
 # 	path = /home/hetvirajkotiya/Documents/npm_package_demo/package_demo_app/src/Components/Card/card
 # 	url = https://github.com/hetu02/npm_package.git
 
-[submodule "package_demo_app/src/src/Components/Card"]
-	path = package_demo_app/src/src/Components/Card
-	url = https://github.com/hetu02/npm_package.git
+[submodule "package_demo_app/src/Components/Card"]
+    path = package_demo_app/src/Components/Card
+    url = https://github.com/hetu02/npm_package.git
