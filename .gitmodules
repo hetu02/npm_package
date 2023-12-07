@@ -3,6 +3,7 @@
 # 	url = https://github.com/hetu02/npm_package.git
 
 
-[submodule "/src/npm_package"]
-    path = /src/npm_package
+[submodule "src/Components/Card"]
+    path = src/Components/Card
     url = https://github.com/hetu02/npm_package.git
+
