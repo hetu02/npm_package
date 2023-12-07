@@ -5,4 +5,4 @@
 
 [submodule "/src/npm_package"]
     path = /src/npm_package
-    url = https://github.com/your-username/your-submodule-repo.git
+    url = https://github.com/hetu02/npm_package.git
