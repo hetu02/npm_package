@@ -1,11 +1,9 @@
-# [submodule "src/Components/Card/card"]
-# 	path = src/Components/Card/card
-# 	url = https://github.com/hetu02/npm_package.git
-
 # [submodule "/home/hetvirajkotiya/Documents/npm_package_demo/package_demo_app/src/Components/Card/card"]
 # 	path = /home/hetvirajkotiya/Documents/npm_package_demo/package_demo_app/src/Components/Card/card
 # 	url = https://github.com/hetu02/npm_package.git
 
-[submodule "package_demo_app/src/Components/Card"]
-    path = package_demo_app/src/Components/Card
+
+[submodule "src/Components/Card"]
+    path = src/Components/Card
     url = https://github.com/hetu02/npm_package.git
+
